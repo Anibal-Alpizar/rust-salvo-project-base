@@ -1,0 +1,11 @@
+C:\Users\anibal\Desktop\salvo-project-base\target\debug\deps\salvo_static-6a3401c483e7c15d.rmeta: C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\lib.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\dir.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\file.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\cfg.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\embed.rs
+
+C:\Users\anibal\Desktop\salvo-project-base\target\debug\deps\libsalvo_static-6a3401c483e7c15d.rlib: C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\lib.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\dir.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\file.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\cfg.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\embed.rs
+
+C:\Users\anibal\Desktop\salvo-project-base\target\debug\deps\salvo_static-6a3401c483e7c15d.d: C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\lib.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\dir.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\file.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\cfg.rs C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\embed.rs
+
+C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\lib.rs:
+C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\dir.rs:
+C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\file.rs:
+C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\cfg.rs:
+C:\Users\anibal\.cargo\registry\src\github.com-1ecc6299db9ec823\salvo-static-0.37.9\src\embed.rs:
