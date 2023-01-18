@@ -854,6 +854,7 @@ dependencies = [
 name = "salvo-project-base"
 version = "0.1.0"
 dependencies = [
+ "rust-embed",
  "salvo",
  "tokio",
 ]
